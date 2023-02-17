@@ -61,7 +61,3 @@ if tickets >= 3:
     price = int(price * 0.9)
 
 print(f'К оплате: {str(price)} руб.')
-
-
-
-
