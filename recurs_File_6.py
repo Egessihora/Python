@@ -20,3 +20,5 @@ def get_line_list(d, a=None):
 
 d = [1, 2, [True, False], ["Москва", "Уфа", [100, 101], ['True', [-2, -1]]], 7.89]
 print(get_line_list(d))
+
+#[1, 2, True, False, 'Москва', 'Уфа', 100, 101, 'True', -2, -1, 7.89]
