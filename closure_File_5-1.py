@@ -13,6 +13,7 @@
 
 def add_tag(tag):
     def add_str(string):
+        nonlocal tag
         return f'<{tag}>{string}</{tag}>'
     return add_str
 
