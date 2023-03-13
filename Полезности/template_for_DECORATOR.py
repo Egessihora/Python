@@ -1,3 +1,5 @@
+# Шаблон декоратора
+
 def func_decorator(func):
     print("---  some actions ---") # будет выведен один раз в момент декорирования функции
     def wraper(*args, **kwargs):
