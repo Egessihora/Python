@@ -10,9 +10,9 @@
 #
 # Sample Input:
 # div
-# Сергей Балакирев
+# Анастасия Бегунова
 
-# Sample Output: <div>Сергей Балакирев</div>
+# Sample Output: <div>Анастасия Бегунова</div>
 
 def add_tag(tag):
     def add_str(s):
