@@ -13,7 +13,7 @@ def reverse_words(my_string):
         new_word = word[::-1]
 
         if '.' in word[-1] or ',' in word[-1] or '!' in word[-1]:
-            new_word = word[:-1:-1] + word[-1]
+            new_word = word[:-1:] + word[-1]
 
         results.append(new_word)
 
