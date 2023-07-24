@@ -36,7 +36,7 @@ ___
 
 Переходим по ссылке. При наведении на **Downloads** нам предлагают сразу скачать последнюю стабильную версию для вашей ОС.
 
-[![1.png](https://i.postimg.cc/J4LzgyKd/1.png)](https://postimg.cc/Btm3Pnrx)
+[![1.png](https://i.postimg.cc/N0fXFRf5/1.png)](https://postimg.cc/XrmqDG5b)
 
 То же самое предлагают при нажатии на **Downnloads** и выборе своей версии ОС, или просто при нажатии на **Downloads**.
 
