@@ -271,7 +271,7 @@ print("Hello World!")
  
 Программа начнёт выполняться и внизу появится результат её работы.
 
-[![12.png](https://i.postimg.cc/T1tVRfT1/12.png)](https://postimg.cc/V0brgyrP)
+[![12.png](https://i.postimg.cc/1RB2gFtn/12.png)](https://postimg.cc/qgtjSz24)
 
 В данной программе мы задали вывести на экран строку с текстом **Hello World!**
 
